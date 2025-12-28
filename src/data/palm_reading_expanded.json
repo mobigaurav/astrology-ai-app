@@ -1,0 +1,44 @@
+{
+  "heart_line": {
+    "long_and_curved": "Emotionally expressive and warm-hearted.",
+    "short_and_straight": "Reserved and logical in relationships.",
+    "chained": "Emotional ups and downs."
+  },
+  "head_line": {
+    "deep_and_long": "Intelligent and focused.",
+    "short": "Quick thinker, spontaneous.",
+    "wavy": "Creative but may lack focus."
+  },
+  "life_line": {
+    "long_and_clear": "Healthy and full of vitality.",
+    "faint": "Tendency to get tired easily, sensitive.",
+    "broken": "Major life changes or challenges."
+  },
+  "fate_line": {
+    "present": "Strong sense of destiny and purpose.",
+    "absent": "Independent, creates own path.",
+    "chained": "Instability or frequent job changes."
+  },
+  "sun_line": {
+    "long": "Success and recognition.",
+    "short": "Limited visibility or fame."
+  },
+  "marriage_lines": {
+    "single_clear": "Stable and long-term relationship.",
+    "multiple": "Multiple significant relationships."
+  },
+  "mounts": {
+    "venus": "Love, attraction, vitality.",
+    "jupiter": "Ambition, leadership, confidence.",
+    "saturn": "Responsibility, wisdom, seriousness.",
+    "apollo": "Creativity, fame, appreciation of beauty.",
+    "mercury": "Communication skills, intellect."
+  },
+  "hand_shape": {
+    "earth": "Practical and grounded.",
+    "air": "Intellectual and curious.",
+    "fire": "Enthusiastic and courageous.",
+    "water": "Emotional and imaginative."
+  }
+  
+}

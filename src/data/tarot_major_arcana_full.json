@@ -1,0 +1,156 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "image": "the_fool.jpg",
+    "meaning_upright": "New beginnings, spontaneity, adventure.",
+    "meaning_reversed": "Recklessness, na\u00efvet\u00e9, foolishness."
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "image": "the_magician.jpg",
+    "meaning_upright": "Manifestation, skill, inspired action.",
+    "meaning_reversed": "Manipulation, poor planning."
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "image": "the_high_priestess.jpg",
+    "meaning_upright": "Intuition, mystery, inner voice.",
+    "meaning_reversed": "Hidden agendas, disconnected from intuition."
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "image": "the_empress.jpg",
+    "meaning_upright": "Fertility, femininity, beauty, nature.",
+    "meaning_reversed": "Creative block, dependence on others."
+  },
+  {
+    "id": 4,
+    "name": "The Emperor",
+    "image": "the_emperor.jpg",
+    "meaning_upright": "Authority, structure, control.",
+    "meaning_reversed": "Domination, excessive control, rigidity."
+  },
+  {
+    "id": 5,
+    "name": "The Hierophant",
+    "image": "the_hierophant.jpg",
+    "meaning_upright": "Tradition, spiritual wisdom.",
+    "meaning_reversed": "Rebellion, nonconformity."
+  },
+  {
+    "id": 6,
+    "name": "The Lovers",
+    "image": "the_lovers.jpg",
+    "meaning_upright": "Love, harmony, relationships.",
+    "meaning_reversed": "Disharmony, imbalance, misalignment."
+  },
+  {
+    "id": 7,
+    "name": "The Chariot",
+    "image": "the_chariot.jpg",
+    "meaning_upright": "Determination, willpower, success.",
+    "meaning_reversed": "Loss of control, aggression."
+  },
+  {
+    "id": 8,
+    "name": "Strength",
+    "image": "strength.jpg",
+    "meaning_upright": "Courage, inner strength, compassion.",
+    "meaning_reversed": "Insecurity, weakness, self-doubt."
+  },
+  {
+    "id": 9,
+    "name": "The Hermit",
+    "image": "the_hermit.jpg",
+    "meaning_upright": "Introspection, solitude, inner guidance.",
+    "meaning_reversed": "Isolation, loneliness, withdrawal."
+  },
+  {
+    "id": 10,
+    "name": "Wheel of Fortune",
+    "image": "wheel_of_fortune.jpg",
+    "meaning_upright": "Luck, karma, life cycles.",
+    "meaning_reversed": "Bad luck, resistance to change."
+  },
+  {
+    "id": 11,
+    "name": "Justice",
+    "image": "justice.jpg",
+    "meaning_upright": "Fairness, truth, law.",
+    "meaning_reversed": "Injustice, dishonesty, corruption."
+  },
+  {
+    "id": 12,
+    "name": "The Hanged Man",
+    "image": "the_hanged_man.jpg",
+    "meaning_upright": "Pause, surrender, new perspective.",
+    "meaning_reversed": "Stalling, resistance, indecision."
+  },
+  {
+    "id": 13,
+    "name": "Death",
+    "image": "death.jpg",
+    "meaning_upright": "Endings, transformation, transition.",
+    "meaning_reversed": "Resistance to change, fear of change."
+  },
+  {
+    "id": 14,
+    "name": "Temperance",
+    "image": "temperance.jpg",
+    "meaning_upright": "Balance, moderation, purpose.",
+    "meaning_reversed": "Imbalance, excess, lack of long-term vision."
+  },
+  {
+    "id": 15,
+    "name": "The Devil",
+    "image": "the_devil.jpg",
+    "meaning_upright": "Addiction, materialism, bondage.",
+    "meaning_reversed": "Freedom, release, reclaiming power."
+  },
+  {
+    "id": 16,
+    "name": "The Tower",
+    "image": "the_tower.jpg",
+    "meaning_upright": "Sudden change, upheaval, chaos.",
+    "meaning_reversed": "Avoidance of disaster, fear of change."
+  },
+  {
+    "id": 17,
+    "name": "The Star",
+    "image": "the_star.jpg",
+    "meaning_upright": "Hope, inspiration, renewal.",
+    "meaning_reversed": "Despair, disconnection, lack of faith."
+  },
+  {
+    "id": 18,
+    "name": "The Moon",
+    "image": "the_moon.jpg",
+    "meaning_upright": "Illusion, fear, anxiety.",
+    "meaning_reversed": "Confusion, clarity, unveiling secrets."
+  },
+  {
+    "id": 19,
+    "name": "The Sun",
+    "image": "the_sun.jpg",
+    "meaning_upright": "Joy, success, celebration.",
+    "meaning_reversed": "Temporary depression, over-optimism."
+  },
+  {
+    "id": 20,
+    "name": "Judgement",
+    "image": "judgement.jpg",
+    "meaning_upright": "Reflection, reckoning, awakening.",
+    "meaning_reversed": "Self-doubt, refusal of self-examination."
+  },
+  {
+    "id": 21,
+    "name": "The World",
+    "image": "the_world.jpg",
+    "meaning_upright": "Completion, integration, accomplishment.",
+    "meaning_reversed": "Incomplete goals, lack of closure."
+  }
+]

@@ -1,0 +1,51 @@
+{
+ {
+    "id": "sun_line",
+    "name": "Sun Line",
+    "description": "Symbolizes fame, creativity, and artistic recognition.",
+    "top": 160,
+    "left": 180
+  },
+  {
+    "id": "marriage_lines",
+    "name": "Marriage Lines",
+    "description": "Represents romantic relationships and significant partnerships.",
+    "top": 60,
+    "left": 160
+  },
+  {
+    "id": "mount_venus",
+    "name": "Mount of Venus",
+    "description": "Reflects love, vitality, and sensuality.",
+    "top": 260,
+    "left": 60
+  },
+  {
+    "id": "mount_jupiter",
+    "name": "Mount of Jupiter",
+    "description": "Shows leadership qualities, ambition, and honor.",
+    "top": 40,
+    "left": 100
+  },
+  {
+    "id": "mount_saturn",
+    "name": "Mount of Saturn",
+    "description": "Represents wisdom, responsibility, and discipline.",
+    "top": 70,
+    "left": 130
+  },
+  {
+    "id": "mount_apollo",
+    "name": "Mount of Apollo",
+    "description": "Linked to creativity, fame, and appreciation for beauty.",
+    "top": 100,
+    "left": 180
+  },
+  {
+    "id": "mount_mercury",
+    "name": "Mount of Mercury",
+    "description": "Associated with communication skills and intellect.",
+    "top": 120,
+    "left": 200
+  }
+}

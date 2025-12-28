@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Forehead",
+    "top": 60,
+    "left": 160,
+    "description": "Represents intelligence, planning, and future-oriented thinking."
+  },
+  {
+    "id": 2,
+    "name": "Eyebrows",
+    "top": 120,
+    "left": 150,
+    "description": "Reflects emotional control, decision-making, and leadership traits."
+  },
+  {
+    "id": 3,
+    "name": "Eyes",
+    "top": 150,
+    "left": 160,
+    "description": "Symbolize insight, perception, and emotional expression."
+  },
+  {
+    "id": 4,
+    "name": "Nose",
+    "top": 200,
+    "left": 180,
+    "description": "Indicates self-esteem, wealth potential, and personal power."
+  },
+  {
+    "id": 5,
+    "name": "Mouth",
+    "top": 270,
+    "left": 170,
+    "description": "Represents communication skills, sensuality, and emotional openness."
+  },
+  {
+    "id": 6,
+    "name": "Chin",
+    "top": 330,
+    "left": 180,
+    "description": "Reflects willpower, determination, and strength of character."
+  }
+]

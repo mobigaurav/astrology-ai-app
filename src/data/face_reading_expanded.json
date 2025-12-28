@@ -1,0 +1,43 @@
+{
+  "forehead": {
+    "broad": "Intelligent, strategic thinker, future-oriented.",
+    "narrow": "Detail-oriented, cautious, reserved."
+  },
+  "eyebrows": {
+    "arched": "Ambitious and energetic.",
+    "straight": "Logical, practical, straightforward personality.",
+    "thick": "Strong-willed and confident.",
+    "thin": "Sensitive and cautious."
+  },
+  "eyes": {
+    "large": "Expressive, emotional, and sociable.",
+    "small": "Focused, detail-oriented, observant.",
+    "almond": "Balanced and emotionally stable."
+  },
+  "nose": {
+    "straight": "Leadership qualities, disciplined.",
+    "rounded": "Kind-hearted, generous.",
+    "hooked": "Determined and resourceful."
+  },
+  "chin": {
+    "pointed": "Creative and artistic personality.",
+    "strong": "Determined, persistent, goal-driven.",
+    "receding": "Introverted and non-confrontational."
+  },
+  "jawline": {
+    "strong": "Assertive, confident, and decisive.",
+    "soft": "Gentle, nurturing, diplomatic."
+  },
+  "cheekbones": {
+    "high": "Charismatic and influential.",
+    "low": "Introverted and private."
+  },
+  "lips": {
+    "full": "Warm, expressive, and affectionate.",
+    "thin": "Reserved and introspective."
+  },
+  "face_symmetry": {
+    "symmetrical": "Confident and emotionally balanced.",
+    "asymmetrical": "Creative thinker, unique perspective."
+  }
+}

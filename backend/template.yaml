@@ -1,0 +1,75 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: AstroAI backend (chat proxy, horoscope, numerology, tarot)
+
+Globals:
+  Function:
+    Runtime: python3.11
+    Timeout: 20
+    MemorySize: 512
+    Tracing: Active
+    Environment:
+      Variables:
+        OPENAI_API_KEY: ""
+
+Resources:
+  ChatFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: app.chat_handler
+      CodeUri: src/
+      Events:
+        ChatApi:
+          Type: Api
+          Properties:
+            Path: /chat
+            Method: POST
+      Policies:
+        - AWSLambdaBasicExecutionRole
+
+  HoroscopeFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: app.horoscope_handler
+      CodeUri: src/
+      Events:
+        HoroscopeApi:
+          Type: Api
+          Properties:
+            Path: /horoscope
+            Method: POST
+      Policies:
+        - AWSLambdaBasicExecutionRole
+
+  NumerologyFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: app.numerology_handler
+      CodeUri: src/
+      Events:
+        NumerologyApi:
+          Type: Api
+          Properties:
+            Path: /numerology
+            Method: POST
+      Policies:
+        - AWSLambdaBasicExecutionRole
+
+  TarotFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: app.tarot_handler
+      CodeUri: src/
+      Events:
+        TarotApi:
+          Type: Api
+          Properties:
+            Path: /tarot
+            Method: POST
+      Policies:
+        - AWSLambdaBasicExecutionRole
+
+Outputs:
+  ApiUrl:
+    Description: API Gateway endpoint
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/"

@@ -1,0 +1,102 @@
+{
+  "The Fool": {
+    "upright": "New beginnings, innocence, spontaneity, a free spirit.",
+    "reversed": "Holding back, recklessness, risk-taking."
+  },
+  "The Magician": {
+    "upright": "Manifestation, resourcefulness, power, inspired action.",
+    "reversed": "Manipulation, poor planning, untapped talents."
+  },
+  "The High Priestess": {
+    "upright": "Intuition, sacred knowledge, divine feminine.",
+    "reversed": "Secrets, disconnected from intuition, withdrawal."
+  },
+  "The Empress": {
+    "upright": "Femininity, beauty, nature, nurturing.",
+    "reversed": "Creative block, dependence on others."
+  },
+  "The Emperor": {
+    "upright": "Authority, structure, control, fatherhood.",
+    "reversed": "Domination, excessive control, rigidity."
+  },
+  "The Hierophant": {
+    "upright": "Tradition, spiritual wisdom, conformity.",
+    "reversed": "Rebellion, personal beliefs, non-conformity."
+  },
+  "The Lovers": {
+    "upright": "Love, harmony, partnerships, values alignment.",
+    "reversed": "Disconnection, imbalance, misalignment of values."
+  },
+  "The Chariot": {
+    "upright": "Determination, control, success through discipline.",
+    "reversed": "Lack of control, aggression, being blocked."
+  },
+  "Strength": {
+    "upright": "Courage, persuasion, influence, compassion.",
+    "reversed": "Self-doubt, weakness, insecurity."
+  },
+  "The Hermit": {
+    "upright": "Soul-searching, introspection, inner guidance.",
+    "reversed": "Isolation, loneliness, withdrawal."
+  },
+  "Wheel of Fortune": {
+    "upright": "Good luck, karma, life cycles, destiny.",
+    "reversed": "Bad luck, resistance to change, breaking cycles."
+  },
+  "Justice": {
+    "upright": "Fairness, truth, law, cause and effect.",
+    "reversed": "Dishonesty, unfairness, lack of accountability."
+  },
+  "The Hanged Man": {
+    "upright": "Pause, surrender, letting go, new perspectives.",
+    "reversed": "Delays, resistance, stalling."
+  },
+  "Death": {
+    "upright": "Endings, transformation, transition.",
+    "reversed": "Resistance to change, personal transformation."
+  },
+  "Temperance": {
+    "upright": "Balance, moderation, patience, purpose.",
+    "reversed": "Imbalance, excess, lack of long-term vision."
+  },
+  "The Devil": {
+    "upright": "Addiction, materialism, playfulness.",
+    "reversed": "Releasing limitations, breaking free."
+  },
+  "The Tower": {
+    "upright": "Sudden change, upheaval, chaos.",
+    "reversed": "Avoiding disaster, fear of change."
+  },
+  "The Star": {
+    "upright": "Hope, faith, purpose, renewal.",
+    "reversed": "Lack of faith, despair, disconnection."
+  },
+  "The Moon": {
+    "upright": "Illusion, fear, anxiety, subconscious.",
+    "reversed": "Confusion, clarity, releasing fear."
+  },
+  "The Sun": {
+    "upright": "Positivity, fun, success, vitality.",
+    "reversed": "Inner child, over-optimism, unrealistic expectations."
+  },
+  "Judgement": {
+    "upright": "Reflection, reckoning, inner calling.",
+    "reversed": "Self-doubt, refusal of self-examination."
+  },
+  "The World": {
+    "upright": "Completion, achievement, wholeness.",
+    "reversed": "Lack of closure, incomplete goals."
+  },
+  "Ace of Cups": {
+    "upright": "Love, new relationships, compassion, creativity.",
+    "reversed": "Blocked emotions, emotional loss."
+  },
+  "Three of Swords": {
+    "upright": "Heartbreak, grief, emotional pain.",
+    "reversed": "Recovery, forgiveness, moving on."
+  },
+  "Ten of Pentacles": {
+    "upright": "Wealth, legacy, family, long-term success.",
+    "reversed": "Financial failure, loneliness, loss."
+  }
+}

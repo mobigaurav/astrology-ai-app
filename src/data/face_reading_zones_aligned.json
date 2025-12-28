@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Forehead",
+    "top": 40,
+    "left": 120,
+    "description": "Represents mental clarity and future insights."
+  },
+  {
+    "id": 2,
+    "name": "Eyebrows",
+    "top": 85,
+    "left": 120,
+    "description": "Reflect personality and emotional expression."
+  },
+  {
+    "id": 3,
+    "name": "Eyes",
+    "top": 110,
+    "left": 120,
+    "description": "Indicate intuition, perception, and emotional depth."
+  },
+  {
+    "id": 4,
+    "name": "Nose",
+    "top": 145,
+    "left": 125,
+    "description": "Connected to wealth, confidence, and ambition."
+  },
+  {
+    "id": 5,
+    "name": "Cheeks",
+    "top": 160,
+    "left": 85,
+    "description": "Reveal charisma, health, and authority."
+  },
+  {
+    "id": 6,
+    "name": "Lips",
+    "top": 195,
+    "left": 125,
+    "description": "Linked to communication style and relationships."
+  },
+  {
+    "id": 7,
+    "name": "Chin",
+    "top": 240,
+    "left": 120,
+    "description": "Symbolizes willpower, determination, and stability."
+  },
+  {
+    "id": 8,
+    "name": "Jawline",
+    "top": 225,
+    "left": 80,
+    "description": "Indicates resilience, discipline, and structure."
+  },
+  {
+    "id": 9,
+    "name": "Temple",
+    "top": 100,
+    "left": 50,
+    "description": "Represents mental stress and emotional tension."
+  }
+]

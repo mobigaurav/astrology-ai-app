@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "image": "fool.jpg",
+    "meaning_upright": "New beginnings, innocence, spontaneity, a free spirit.",
+    "meaning_reversed": "Holding back, recklessness, risk-taking."
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "image": "magician.jpg",
+    "meaning_upright": "Manifestation, resourcefulness, power, inspired action.",
+    "meaning_reversed": "Manipulation, poor planning, untapped talents."
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "image": "high_priestess.jpg",
+    "meaning_upright": "Intuition, sacred knowledge, divine feminine.",
+    "meaning_reversed": "Secrets, disconnected from intuition, withdrawal."
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "image": "empress.jpg",
+    "meaning_upright": "Femininity, beauty, nature, nurturing.",
+    "meaning_reversed": "Creative block, dependence on others."
+  },
+  {
+    "id": 4,
+    "name": "The Emperor",
+    "image": "emperor.jpg",
+    "meaning_upright": "Authority, structure, control, fatherhood.",
+    "meaning_reversed": "Domination, excessive control, rigidity."
+  }
+]

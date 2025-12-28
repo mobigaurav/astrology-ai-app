@@ -1,0 +1,31 @@
+[
+  {
+    "id": "heart_line",
+    "name": "Heart Line",
+    "description": "Emotionally expressive and warm-hearted. Can also show emotional ups and downs depending on shape.",
+    "top": 80,
+    "left": 120
+  },
+  {
+    "id": "head_line",
+    "name": "Head Line",
+    "description": "Reflects intellect and thought style: creative, logical, or spontaneous.",
+    "top": 130,
+    "left": 100
+  },
+  {
+    "id": "life_line",
+    "name": "Life Line",
+    "description": "Indicates energy, vitality, and major life events or transitions.",
+    "top": 200,
+    "left": 140
+  },
+  {
+    "id": "fate_line",
+    "name": "Fate Line",
+    "description": "Associated with destiny, career path, and life direction.",
+    "top": 180,
+    "left": 90
+  }
+  
+]
